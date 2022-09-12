@@ -1,0 +1,58 @@
+Timestamp,id,gender,coffee_drinker,class_rank,coffee_this_am,bed_time,wake_time,gamer,reaction_1,reaction_2,reaction_3
+9/6/2022 10:15:55,Bryan Huynh,Male,No,Junior,No,1:00:00 AM,9:37:00 AM,Yes,304,284,260
+9/6/2022 13:19:00,Datta Chiruvelli,Male,No,Grad Student,No,12:30:00 AM,7:30:00 AM,No,368,400,411
+9/6/2022 17:45:49,Julia Theiss,Non-Binary,No,,No,2:00:00 AM,10:10:00 AM,Yes,318,274,329
+9/7/2022 10:58:17,Vitya,Male,Yes,Junior,No,12:30:00 AM,6:30:00 AM,Yes,240,253,224
+9/7/2022 10:58:26,Luke,Male,Yes,Senior,Yes,11:00:00 PM,7:30:00 AM,Yes,307,284,266
+9/7/2022 10:58:54,Brock Aune,Male,Yes,Junior,No,1:30:00 AM,8:30:00 AM,No,373,290,339
+9/7/2022 10:58:57,Emersen Mitchell,Female,Yes,Junior,No,12:00:00 PM,8:30:00 AM,No,297,314,315
+9/7/2022 10:58:59,Jeffrey,Male,Yes,Sophmore,No,1:00:00 AM,8:30:00 AM,Yes,407,347,385
+9/7/2022 10:58:59,Cody,Male,Yes,Senior,No,11:00:00 PM,7:30:00 AM,Yes,368,267,245
+9/7/2022 10:59:05,Tatum,Female,Yes,Sophmore,No,1:00:00 AM,8:30:00 AM,No,348,304,300
+9/7/2022 10:59:06,Molly Veregge,Female,Yes,Grad Student,Yes,12:00:00 AM,7:30:00 AM,Yes,294,286,292
+9/7/2022 10:59:06,RoseC,Female,Yes,Senior,Yes,10:00:00 PM,8:30:00 AM,No,321,245,247
+9/7/2022 10:59:08,Avram ,Male,No,Sophmore,No,2:00:00 AM,8:30:00 AM,No,304,224,211
+9/7/2022 10:59:08,,Female,No,Senior,No,12:00:00 AM,6:00:00 AM,No,314,334,381
+9/7/2022 10:59:10,Mo,Male,No,Senior,No,2:00:00 AM,7:00:00 AM,Yes,273,242,285
+9/7/2022 10:59:11,Nick T,Male,Yes,Grad Student,Yes,1:00:00 AM,6:00:00 AM,Yes,426,367,387
+9/7/2022 10:59:11,Athens,Non-Binary,Yes,Sophmore,No,12:00:00 AM,8:30:00 AM,No,234,222,246
+9/7/2022 10:59:14,Brooke,Female,Yes,Grad Student,Yes,1:00:00 AM,7:00:00 AM,No,352,296,364
+9/7/2022 10:59:14,Sydney Gunter,Female,No,Junior,No,12:25:00 AM,8:20:00 AM,No,280,274,289
+9/7/2022 10:59:19,Kira Poxon,Non-Binary,Yes,Senior,No,11:00:00 PM,8:00:00 AM,Yes,663,284,256
+9/7/2022 10:59:19,Megan,Female,Yes,Senior,Yes,11:30:00 PM,6:30:00 AM,No,237,283,273
+9/7/2022 10:59:24,katie conway,Female,No,Junior,No,1:00:00 AM,8:30:00 AM,Yes,283,285,269
+9/7/2022 10:59:25,Yoonjung Lee,Female,Yes,Grad Student,Yes,1:50:00 AM,7:30:00 AM,No,303,275,235
+9/7/2022 10:59:26,Chloe S,Female,No,Junior,No,1:00:00 AM,8:00:00 AM,Yes,322,337,313
+9/7/2022 10:59:31,Hannah Rehrauer,Female,Yes,Freshman,No,12:00:00 AM,8:30:00 AM,No,380,273,252
+9/7/2022 10:59:37,Blake,Male,Yes,Senior,Yes,12:00:00 AM,8:30:00 AM,Yes,241,239,248
+9/7/2022 10:59:38,Megan,Female,No,Grad Student,No,12:00:00 AM,8:30:00 AM,No,325,306,328
+9/7/2022 10:59:38,Jack DuFauchard,Male,No,Junior,No,12:00:00 AM,8:00:00 AM,No,293,279,251
+9/7/2022 10:59:42,Laura Ostrowsky,Female,Yes,Grad Student,Yes,11:00:00 PM,7:00:00 AM,No,319,279,286
+9/7/2022 10:59:44,Nicholas,Prefer not to say,No,Senior,No,1:00:00 AM,8:30:00 AM,Yes,351,334,351
+9/7/2022 10:59:44,Myeka,Non-Binary,No,Sophmore,No,1:00:00 AM,6:00:00 AM,No,316,311,279
+9/7/2022 10:59:49,Ashley,Female,Yes,Junior,Yes,12:20:00 AM,7:30:00 AM,No,287,276,429
+9/7/2022 10:59:50,Ash Geske,Non-Binary,No,Junior,No,10:00:00 PM,7:10:00 AM,Yes,326,265,302
+9/7/2022 10:59:50,Alina,Female,No,Grad Student,No,11:30:00 PM,6:30:00 AM,No,412,366,541
+9/7/2022 10:59:51,Zuhayr,Male,No,Junior,No,11:00:00 PM,7:40:00 AM,Yes,271,321,311
+9/7/2022 10:59:53,Jasmine Gulik,Female,Yes,Junior,Yes,,8:48:00 AM,No,294,301,290
+9/7/2022 10:59:53,chris wojan,Non-Binary,No,Grad Student,No,11:00:00 PM,7:00:00 AM,Yes,343,289,322
+9/7/2022 10:59:53,Makayla Sweet,Female,Yes,Senior,No,11:00:00 PM,8:00:00 AM,No,250,293,242
+9/7/2022 11:00:00,Ashley Darst,Female,No,Senior,No,11:00:00 PM,7:30:00 AM,No,349,285,295
+9/7/2022 11:00:10,Abha Panda,Female,No,Grad Student,No,11:00:00 PM,8:30:00 AM,No,317 ms,311 ms,331 ms
+9/7/2022 11:00:20,Sara Berger,Female,Yes,Senior,No,2:30:00 AM,7:00:00 AM,Yes,360,347,338
+9/7/2022 11:00:25,Courtney ,Female,Yes,Senior,Yes,10:00:00 AM,7:00:00 AM,No,306,267,283
+9/7/2022 11:00:37,Gayatri ,Female,Yes,Junior,No,12:00:00 AM,7:22:00 AM,No,244,195,202
+9/7/2022 11:00:46,Achala,Female,Yes,Grad Student,Yes,11:00:00 PM,6:45:00 AM,No,625,384,490
+9/7/2022 11:00:48,Jasmine,Female,No,Junior,No,12:00:00 AM,9:00:00 AM,Yes,254,251,265
+9/7/2022 11:00:51,Madeline Ammend,Female,Yes,Grad Student,Yes,12:00:00 AM,7:30:00 AM,Yes,280,324,274
+9/7/2022 11:01:04,Panhavuth Tan (TT),Male,Yes,Sophmore,No,2:00:00 AM,8:00:00 AM,No,396 ms,439,421
+9/7/2022 11:01:12,Amisa Jones,Female,Yes,Senior,No,10:00:00 PM,6:00:00 AM,No,311 ms,277 ms,292 ms
+9/7/2022 11:01:39,Kevin S,Male,No,Junior,No,11:00:00 PM,8:20:00 AM,Yes,293,294,280
+9/7/2022 11:01:49,Chris Basting,Male,Yes,Grad Student,No,12:00:00 AM,9:00:00 AM,Yes,249,255,251
+9/7/2022 11:02:05,Steve Smith,Male,Yes,Grad Student,Yes,11:00:00 AM,6:00:00 AM,No,360,366,319
+9/7/2022 11:02:22,Pranaya Kaki,Female,Yes,Grad Student,No,11:00:00 AM,7:00:00 AM,Yes,1118,704,569
+9/7/2022 12:11:56,Luke Gerhardson,Male,No,Junior,No,12:15:00 AM,8:30:00 AM,Yes,205ms,241ms,221ms
+9/7/2022 16:47:45,Yiwei Zhao,Female,No,Senior,No,1:30:00 AM,9:15:00 AM,Yes,227,216,218
+9/7/2022 23:46:07,Kiowa,Male,Yes,Grad Student,Yes,1:00:00 AM,9:00:00 AM,Yes,227,221,234
+9/8/2022 17:55:58,Yiwei Zhao,Female,No,Senior,No,3:30:00 AM,10:30:00 AM,Yes,251,238,218
+9/8/2022 23:59:22,Lindsey,Female,Yes,Sophmore,Yes,12:00:00 AM,8:30:00 AM,No,268,267,265
