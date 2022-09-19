@@ -1,0 +1,56 @@
+timestamp,id,gender,coffee_drinker,class_rank,coffee_this_am,bed_time,wake_time,gamer,attempt,time,fastest_time,time_issue,hrs_slept
+9/6/2022 10:15:55,13,Male,No,Junior,No,90000,09:37:00,Yes,3,260,260,night_owl,8.61666666666667
+9/6/2022 13:19:00,19,Male,No,Grad Student,No,88200,07:30:00,No,1,368,368,night_owl,7
+9/6/2022 17:45:49,27,Non-Binary,No,NA,No,93600,10:10:00,Yes,2,274,274,night_owl,8.16666666666667
+9/7/2022 10:58:17,51,Male,Yes,Junior,No,88200,06:30:00,Yes,3,224,224,night_owl,6
+9/7/2022 10:58:26,34,Male,Yes,Senior,Yes,82800,07:30:00,Yes,3,266,266,ok,8.5
+9/7/2022 10:58:54,11,Male,Yes,Junior,No,91800,08:30:00,No,2,290,290,night_owl,7
+9/7/2022 10:58:57,20,Female,Yes,Junior,No,86400,08:30:00,No,1,297,297,am_pm,8.5
+9/7/2022 10:58:59,26,Male,Yes,Sophmore,No,90000,08:30:00,Yes,2,347,347,night_owl,7.5
+9/7/2022 10:58:59,17,Male,Yes,Senior,No,82800,07:30:00,Yes,3,245,245,ok,8.5
+9/7/2022 10:59:05,50,Female,Yes,Sophmore,No,90000,08:30:00,No,3,300,300,night_owl,7.5
+9/7/2022 10:59:06,40,Female,Yes,Grad Student,Yes,86400,07:30:00,Yes,2,286,286,night_owl,7.5
+9/7/2022 10:59:06,46,Female,Yes,Senior,Yes,79200,08:30:00,No,2,245,245,ok,10.5
+9/7/2022 10:59:08,9,Male,No,Sophmore,No,93600,08:30:00,No,3,211,211,night_owl,6.5
+9/7/2022 10:59:08,NA,Female,No,Senior,No,86400,06:00:00,No,1,314,314,night_owl,6
+9/7/2022 10:59:10,39,Male,No,Senior,No,93600,07:00:00,Yes,2,242,242,night_owl,5
+9/7/2022 10:59:11,43,Male,Yes,Grad Student,Yes,90000,06:00:00,Yes,2,367,367,night_owl,5
+9/7/2022 10:59:11,8,Non-Binary,Yes,Sophmore,No,86400,08:30:00,No,2,222,222,night_owl,8.5
+9/7/2022 10:59:14,12,Female,Yes,Grad Student,Yes,90000,07:00:00,No,2,296,296,night_owl,6
+9/7/2022 10:59:14,49,Female,No,Junior,No,87900,08:20:00,No,2,274,274,night_owl,7.91666666666667
+9/7/2022 10:59:19,31,Non-Binary,Yes,Senior,No,82800,08:00:00,Yes,3,256,256,ok,9
+9/7/2022 10:59:19,38,Female,Yes,Senior,Yes,84600,06:30:00,No,1,237,237,ok,7
+9/7/2022 10:59:24,28,Female,No,Junior,No,90000,08:30:00,Yes,3,269,269,night_owl,7.5
+9/7/2022 10:59:25,53,Female,Yes,Grad Student,Yes,93000,07:30:00,No,3,235,235,night_owl,5.66666666666667
+9/7/2022 10:59:26,14,Female,No,Junior,No,90000,08:00:00,Yes,3,313,313,night_owl,7
+9/7/2022 10:59:31,22,Female,Yes,Freshman,No,86400,08:30:00,No,3,252,252,night_owl,8.5
+9/7/2022 10:59:37,10,Male,Yes,Senior,Yes,86400,08:30:00,Yes,2,239,239,night_owl,8.5
+9/7/2022 10:59:38,23,Male,No,Junior,No,86400,08:00:00,No,3,251,251,night_owl,8
+9/7/2022 10:59:42,32,Female,Yes,Grad Student,Yes,82800,07:00:00,No,2,279,279,ok,8
+9/7/2022 10:59:44,42,Prefer not to say,No,Senior,No,90000,08:30:00,Yes,2,334,334,night_owl,7.5
+9/7/2022 10:59:44,41,Non-Binary,No,Sophmore,No,90000,06:00:00,No,3,279,279,night_owl,5
+9/7/2022 10:59:49,6,Female,Yes,Junior,Yes,87600,07:30:00,No,2,276,276,night_owl,7.16666666666667
+9/7/2022 10:59:50,5,Non-Binary,No,Junior,No,79200,07:10:00,Yes,2,265,265,ok,9.16666666666667
+9/7/2022 10:59:50,3,Female,No,Grad Student,No,84600,06:30:00,No,2,366,366,ok,7
+9/7/2022 10:59:51,54,Male,No,Junior,No,82800,07:40:00,Yes,1,271,271,ok,8.66666666666667
+9/7/2022 10:59:53,25,Female,Yes,Junior,Yes,NA,08:48:00,No,3,290,290,am_pm,NA
+9/7/2022 10:59:53,16,Non-Binary,No,Grad Student,No,82800,07:00:00,Yes,2,289,289,ok,8
+9/7/2022 10:59:53,37,Female,Yes,Senior,No,82800,08:00:00,No,3,242,242,ok,9
+9/7/2022 11:00:00,7,Female,No,Senior,No,82800,07:30:00,No,2,285,285,ok,8.5
+9/7/2022 11:00:10,1,Female,No,Grad Student,No,82800,08:30:00,No,2,311,311,ok,9.5
+9/7/2022 11:00:20,47,Female,Yes,Senior,No,95400,07:00:00,Yes,3,338,338,night_owl,4.5
+9/7/2022 11:00:25,18,Female,Yes,Senior,Yes,79200,07:00:00,No,2,267,267,am_pm,9
+9/7/2022 11:00:37,21,Female,Yes,Junior,No,86400,07:22:00,No,2,195,195,night_owl,7.36666666666667
+9/7/2022 11:00:46,2,Female,Yes,Grad Student,Yes,82800,06:45:00,No,2,384,384,ok,7.75
+9/7/2022 11:00:48,24,Female,No,Junior,No,86400,09:00:00,Yes,2,251,251,night_owl,9
+9/7/2022 11:00:51,36,Female,Yes,Grad Student,Yes,86400,07:30:00,Yes,3,274,274,night_owl,7.5
+9/7/2022 11:01:04,44,Male,Yes,Sophmore,No,93600,08:00:00,No,1,396,396,night_owl,6
+9/7/2022 11:01:12,4,Female,Yes,Senior,No,79200,06:00:00,No,2,277,277,ok,8
+9/7/2022 11:01:39,29,Male,No,Junior,No,82800,08:20:00,Yes,3,280,280,ok,9.33333333333333
+9/7/2022 11:01:49,15,Male,Yes,Grad Student,No,86400,09:00:00,Yes,1,249,249,night_owl,9
+9/7/2022 11:02:05,48,Male,Yes,Grad Student,Yes,82800,06:00:00,No,3,319,319,am_pm,7
+9/7/2022 11:02:22,45,Female,Yes,Grad Student,No,82800,07:00:00,Yes,3,569,569,am_pm,8
+9/7/2022 12:11:56,35,Male,No,Junior,No,87300,08:30:00,Yes,1,205,205,night_owl,8.25
+9/7/2022 16:47:45,52,Female,No,Senior,No,91800,09:15:00,Yes,2,216,216,night_owl,7.75
+9/7/2022 23:46:07,30,Male,Yes,Grad Student,Yes,90000,09:00:00,Yes,2,221,221,night_owl,8
+9/8/2022 23:59:22,33,Female,Yes,Sophmore,Yes,86400,08:30:00,No,3,265,265,night_owl,8.5
