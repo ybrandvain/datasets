@@ -1,78 +1,102 @@
-# Applied Biostats
-# Permutation Code
-# Oct 7 2022
+# Applied Biostats 
+# Correlation 
+# Oct 10 2022
 
 library(tidyverse)
+library(conflicted)
+library(magrittr)
+library(broom)
 library(janitor)
-library(Hmisc)
-newts <- read_csv("https://whitlockschluter3e.zoology.ubc.ca/Data/chapter13/chap13q08Newts.csv")%>%
+# library(ggrepel) optional
+
+
+######### EXPLORATION GET STARTED
+# Load in the data
+tv_link <- "https://raw.githubusercontent.com/ybrandvain/datasets/master/tvs.csv"
+tv_data <- read_csv(tv_link) %>%
   clean_names()
 
-
-#################
-## PLOTS
-#################
-# plot the data [not just a box and whiskers plots]   
-ggplot(data = newts, aes(x = locality , 
-                         y = whole_animal_resistance))  + # set up the plot
-  geom_jitter(width = .3, height =0, 
-              size = 3, alpha = .5)+                     # show the data
-  stat_summary(fun.data = "mean_cl_boot", color = "red") # show means and error bars
-
-# plot the data as two histograms   
-ggplot(data = newts, aes(___ =  ____________))  +
-  ____(bins = 6, color = "white")+ # make a histogram 
-  ____(~___, ncol =1)              # split the data in strips by locality
-
-
-#################
-## DATA SUMMARIES
-#################
-
-news_summary <- newts %>%
-  group_by(locality)  %>% # get different data summaries for each locality
-  dplyr::summarise(sd_resist   = sd(whole_animal_resistance), # find standard deviations 
-                   mean_resist = mean(whole_animal_resistance)) # find means
-
-
-observed_diff_mean <- newts_summary %>%
-  summarise( diff_in_means = diff(mean_resist)) %>%
-  mutate(abs_diff_in_means = abs(diff_in_means)) %>%
-  pull(abs_diff_in_means)  # the absolate value of the difference in means is
+# Check it out
+ggplot(tv_data,aes(x = people_per_tv, y = life_expectancy))+
+  geom_point()
 
 
 
-### permuting_dist 
+
+### transform 
+tv_data <- mutate(tv_data, log_10_people_per_tv = log10(people_per_tv)) %>%
+  dplyr::filter(!is.na(people_per_tv))
+
+ggplot(tv_data,aes(x =  log_10_people_per_tv, y = life_expectancy))+
+  #geom_text_repel(aes(label = country))+
+  geom_point()
 
 
-### permuting_dist 
-n_perms <- 5000
-permuted_dist <- replicate(n = n_perms, simplify = FALSE,
-  newts %>%
-  mutate(perm_locality = sample(locality, replace =  FALSE)) %>%
-  group_by(perm_locality)%>%
-  summarise(mean_perm_resist = mean(whole_animal_resistance)) %>%
-  summarise(mean_perm_diff = diff(mean_perm_resist)) ) %>% 
-  bind_rows()
+######### Summarize
+
+tv_data %>%
+  mutate(dev_tv = (log_10_people_per_tv - mean(log_10_people_per_tv)) ,
+         dev_lifespan = (life_expectancy - mean(life_expectancy)),
+         shared_dev = dev_tv*dev_lifespan )%>%
+  dplyr::summarise(math_cov = sum(shared_dev)/ (n()-1),
+                   math_cor = (math_cov  / (sd(life_expectancy) * sd(log_10_people_per_tv))),
+                   r_cov    = cov(life_expectancy,log_10_people_per_tv),
+                   cor      = cor(life_expectancy,log_10_people_per_tv))
 
 
-### boot_dist 
+
+### Uncertainty
 n_boots <- 1000
-boot_dist <- replicate(n = n_boots, simplify = FALSE,
-                       group_by(newts, locality) %>%
-                         slice_sample( prop = 1, replace = TRUE) %>%
-                          #mutate(perm_locality = sample(locality, replace =  FALSE)) %>%
-                          group_by(locality)%>%
-                          summarise(mean_boot_resist = mean(whole_animal_resistance)) %>%
-                          summarise(mean_boot_diff = diff(mean_boot_resist)) ) %>% 
+tv_boots <- replicate(n = n_boots , simplify = FALSE,
+  slice_sample(tv_data, prop = 1, replace = TRUE) %>%
+  summarise(boot_cor = cor(life_expectancy,log_10_people_per_tv))) %>%
   bind_rows()
 
-ggplot(boot_dist, aes(x = abs(mean_boot_diff)))+
-  geom_histogram()+ 
-  geom_vline(xintercept = c(.426))
-#
+tv_boots %>%
+  dplyr::summarise(se = sd(boot_cor),
+                   lower_95 = quantile(boot_cor, prob = 0.025),
+                   upper_95 = quantile(boot_cor, prob = 0.975))
+
+
+## Hypothesis testing
+### Uncertainty
+n_perm <- 10000
+tv_perm <- replicate(n = n_perm , simplify = FALSE,
+                      tv_data %>%
+                        mutate(perm_tvs = sample(log_10_people_per_tv, replace = FALSE))%>%
+                        summarise(permtv_cor = cor(life_expectancy,perm_tvs ))) %>%
+  bind_rows()
+
+
 # p-value 
-permuted_dist %>% 
-  mutate(abs_diff_means = abs(mean_perm_diff),
-         as_or_more_extreme = abs_diff_means >= observed_diff_mean)%>%
-  summarise(p_value = mean( as_or_more_extreme))
+
+observed <-  tv_data %>%
+  summarise(cor(life_expectancy,log_10_people_per_tv)) %>%
+  pull()
+
+tv_perm %>%
+  mutate(as_or_more = abs(permtv_cor) >= abs(observed))%>%
+  summarise(p_val = mean(as_or_more))
+
+
+### with maths
+# without magrittr
+
+cor.test(pull(tv_data, log_10_people_per_tv), 
+         pull(tv_data,life_expectancy))
+
+# with magrittr
+tv_data %$%
+  cor.test(log_10_people_per_tv, life_expectancy)
+
+
+# with magrittr and broom
+tv_data %$%
+  cor.test(log_10_people_per_tv, life_expectancy) %>%
+  glance()
+
+
+# non parameteric rank based tst
+
+tv_data %$%
+  cor.test(log_10_people_per_tv, life_expectancy, method = "spearman")
