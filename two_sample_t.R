@@ -9,6 +9,8 @@ library(janitor)
 
 exercise_ataxia <- read_csv("https://whitlockschluter3e.zoology.ubc.ca/Data/chapter12/chap12q28SpinocerebellarAtaxia.csv")
 
+exercise_ataxia_reordered <- exercise_ataxia  %>%
+  mutate(treatment = fct_reorder(treatment, lifespan))
 # view(exercise_ataxia)
 # glimpse(exercise_ataxia)
 # Why can't we pair them?
