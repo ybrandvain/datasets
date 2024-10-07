@@ -1,0 +1,37 @@
+"Timestamp","Without using R or any other tricks pick a random integer from 0 to 10, all with equal probability","Sample  20 M&Ms at random from the bin. How many were blue? [write as a number e.g. 6]
+
+NOTE: If you take one sample for your group please be sure only one person fills this out","Roll a die five times and repot the mean value of your roll.
+
+NOTE 1: We don't have dice, so type  sample(x = 1:6, size = 1) into R to simulate a roll of the dice
+
+NOTE 2: If you take one sample for your group please be sure only one person fills this out","How tall are you in inches ?"
+"2024/10/07 10:11:27 AM EST","8","3","3.6","67"
+"2024/10/07 10:15:52 AM EST","1","6","4","62"
+"2024/10/07 10:16:39 AM EST","6","4","4","66"
+"2024/10/07 10:16:39 AM EST","7","5","2.8","69"
+"2024/10/07 10:16:46 AM EST","7","4","3.8","60"
+"2024/10/07 10:17:11 AM EST","7","2","2.4","63"
+"2024/10/07 10:17:12 AM EST","5","4","3","62 inches"
+"2024/10/07 10:17:22 AM EST","2","8","3","63"
+"2024/10/07 10:18:06 AM EST","8","5","3.67","70"
+"2024/10/07 10:18:11 AM EST","7","5","4","64"
+"2024/10/07 10:18:14 AM EST","3","5","5","70"
+"2024/10/07 10:18:22 AM EST","7","66","6","62"
+"2024/10/07 10:18:23 AM EST","0","3","6","64"
+"2024/10/07 10:19:12 AM EST","2","5","3","64.96063"
+"2024/10/07 10:19:26 AM EST","5","5","3.4","69.6"
+"2024/10/07 10:19:46 AM EST","8","6","3.4","71"
+"2024/10/07 10:20:05 AM EST","1","4","4","65"
+"2024/10/07 10:20:10 AM EST","6","2","","67"
+"2024/10/07 10:20:27 AM EST","8","6","4.6","72"
+"2024/10/07 10:21:07 AM EST","7","7","3","63"
+"2024/10/07 10:21:07 AM EST","3","5","3.2","72"
+"2024/10/07 10:21:09 AM EST","2","5","4","63"
+"2024/10/07 10:21:18 AM EST","2","6","3","68"
+"2024/10/07 10:22:59 AM EST","6","3","3.8","64.5"
+"2024/10/07 10:24:15 AM EST","3","4","2.8","75"
+"2024/10/07 10:24:49 AM EST","6","5","3.6","67"
+"2024/10/07 10:25:29 AM EST","2","","","65"
+"2024/10/07 10:25:38 AM EST","7","4","3.4","68"
+"2024/10/07 10:29:57 AM EST","7","2","3.2","58.5"
+"2024/10/07 10:39:26 AM EST","2","2","2.8","73"
