@@ -1,0 +1,329 @@
+id,nCorrect_(of 12),n_correct_(predicted first),n_correct_(after test),astrologicalExperienceLabel,Astrologer,typesOfAstrologyExperiencedWith,percentOfTheirAstrologicalInsightsTheyThinkAreAccurate,beliefInAstrologyLabel,beliefInAstrologyScore,answer1Correct,answer2Correct,answer3Correct,answer4Correct,answer5Correct,answer6Correct,answer7Correct,answer8Correct,answer9Correct,answer10Correct,answer11Correct,answer12Correct
+12899792,3,6,6,I have a little experience,Astrologer,"Western,Mundane",50,Believer but not total believer,2,1,0,0,0,1,1,0,0,0,0,0,0
+12899673,4,3,3,I have a little experience,Astrologer,"Traditional,Western",50,I lean towards believing,1,1,1,0,0,0,0,1,1,0,0,0,0
+12898255,2,1,2,I've never done it before,Guesser,,,Total skeptic,-3,0,1,0,0,0,1,0,0,0,0,0,0
+12896059,2,4,6,I have a little experience,Astrologer,Western,,On the fence or neither a skeptic nor a believer,0,1,0,0,0,0,1,0,0,0,0,0,0
+12888181,2,9,7,I'm between an amateur and an expert,Astrologer,"Esoteric,Traditional",40,I lean towards believing,1,0,1,0,0,0,1,0,0,0,0,0,0
+12875571,1,10,10,I'm between an amateur and an expert,Astrologer,"Traditional,Chinese,Western",90,I lean towards believing,1,0,0,0,1,0,0,0,0,0,0,0,0
+12875249,2,2,2,I've never done it before,Guesser,Western,,Total skeptic,-3,0,1,0,1,0,0,0,0,0,0,0,0
+12874810,2,5,5,I've never done it before,Guesser,Esoteric,50,Total skeptic,-3,0,0,0,0,0,0,1,1,0,0,0,0
+12874593,2,2,3,I'm an experienced amateur,Guesser,"Western,Vedic",20,On the fence or neither a skeptic nor a believer,0,1,0,0,0,0,0,1,0,0,0,0,0
+12872001,5,0,0,I'm an experienced amateur,Guesser,Hellenistic,,On the fence or neither a skeptic nor a believer,0,1,0,1,0,0,1,1,0,1,0,0,0
+12871225,1,6,6,I'm an expert but not world-class,Astrologer,Western,70,Believer but not total believer,2,0,1,0,0,0,0,0,0,0,0,0,0
+12870081,3,6,4,I'm an experienced amateur,Astrologer,"Western,Vedic,Chinese",60,I lean towards believing,1,0,0,0,1,1,1,0,0,0,0,0,0
+12856791,2,8,4,I have a little experience,Astrologer,,95,Believer but not total believer,2,1,0,0,0,0,0,1,0,0,0,0,0
+12855780,2,5,4,I'm between an amateur and an expert,Astrologer,Western,50,Total believer,3,0,1,1,0,0,0,0,0,0,0,0,0
+12854934,3,7,4,I'm an experienced amateur,Astrologer,"Mundane,Western,Psychological",60,I lean towards believing,1,0,0,0,0,0,1,0,1,1,0,0,0
+12851446,2,10,6,I'm between an amateur and an expert,Astrologer,"Traditional,Western",80,Total believer,3,1,0,0,0,0,0,0,0,1,0,0,0
+12849924,3,12,0,I'm an experienced amateur,Astrologer,Humanistic,100,Total believer,3,1,0,0,0,0,0,0,1,0,0,0,1
+12847659,2,3,5,I'm an experienced amateur,Astrologer,"Western,Traditional",70,Believer but not total believer,2,1,0,0,0,0,1,0,0,0,0,0,0
+12847327,5,3,3,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,1,1,0,0,1,0,0,0,0,1,1
+12843551,1,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,1,0,0,0,0,0
+12842677,3,9,7,I'm an experienced amateur,Astrologer,"Western,Mayan,Hellenistic,Mundane,Esoteric,Psychological,Medieval,Renaissance,Vedic",70,I lean towards skepticism,-1,0,0,0,0,0,0,0,1,0,0,1,1
+12838000,1,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,1,0,0,0
+12837844,1,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,1
+12837750,2,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,1,0,0,0,0,0,0,0,0,0,1
+12836423,2,12,12,I've never done it before,Guesser,Traditional,,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,0,0,0,1,0,0,1
+12825815,3,1,0,I've never done it before,Guesser,Mundane,,Total skeptic,-3,0,0,1,0,0,0,0,0,1,0,1,0
+12823984,0,2,2,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,0,0,0,0,0,0,0,0,0
+12821212,4,4,5,I've never done it before,Guesser,,,I lean towards skepticism,-1,0,0,1,1,0,0,0,0,1,1,0,0
+12815782,2,12,6,I have a little experience,Astrologer,"Vedic,Western",,Total believer,3,0,1,0,0,0,0,0,0,0,0,1,0
+12814466,3,0,0,I've never done it before,Guesser,"Western,Traditional",,Total skeptic,-3,0,0,0,0,0,1,0,1,0,0,1,0
+12813585,2,2,2,I've never done it before,Guesser,Western,10,Skeptic but not total skeptic,-2,0,0,0,0,0,0,1,0,1,0,0,0
+12813251,3,9,7,I'm an experienced amateur,Astrologer,"Western,Mundane,Electional,Traditional,Vedic,Hellenistic",80,Believer but not total believer,2,0,1,0,0,0,0,0,1,0,1,0,0
+12810907,3,1,1,I've never done it before,Guesser,None whatsoever.  It's obviously crap.,,Total skeptic,-3,0,0,0,0,1,1,0,0,0,1,0,0
+12810309,2,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,0,0,0,0,0,0,1,0,0
+12810290,1,3,3,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,0,1,0,0,0,0,0,0,0
+12805196,3,4,6,I'm an experienced amateur,Astrologer,"Western,Psychological,Traditional",70,On the fence or neither a skeptic nor a believer,0,1,1,0,1,0,0,0,0,0,0,0,0
+12801645,5,1,2,I have a little experience,Guesser,,20,Skeptic but not total skeptic,-2,1,1,0,1,0,1,0,0,1,0,0,0
+12800749,4,10,4,I'm an experienced amateur,Astrologer,"Traditional,Medical,Western",95,Believer but not total believer,2,0,0,0,0,0,1,0,1,0,1,1,0
+12800619,2,7,2,I've never done it before,Guesser,Western,,I lean towards skepticism,-1,0,0,1,0,0,0,0,0,1,0,0,0
+12800442,1,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,1,0,0,0,0,0,0,0,0,0,0
+12800295,1,5,6,I've never done it before,Guesser,Traditional,50,I lean towards skepticism,-1,0,0,0,0,0,0,0,1,0,0,0,0
+12799487,7,2,2,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,1,1,1,1,1,1,1,0,0,0
+12796346,1,2,2,I've never done it before,Guesser,Traditional,,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,0,0,0,0,0,0,1
+12795399,1,2,2,I've never done it before,Guesser,,20,Total skeptic,-3,0,0,1,0,0,0,0,0,0,0,0,0
+12791090,3,7,5,I'm an experienced amateur,Astrologer,Western,60,On the fence or neither a skeptic nor a believer,0,0,0,0,1,0,1,0,1,0,0,0,0
+12790779,4,12,8,I'm an expert but not world-class,Astrologer,"Degree Theory,Medical,Horary,Mayan,Hellenistic,Western,Mundane,Egyptian,Esoteric,Electional,Vedic,Traditional,Cosmobiology,Psychological",95,Total believer,3,0,0,1,1,0,0,0,0,1,0,1,0
+12790732,1,2,2,I'm an expert but not world-class,Guesser,"Traditional,Western",50,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,1,0
+12790176,3,6,6,I'm between an amateur and an expert,Astrologer,Psychological,70,On the fence or neither a skeptic nor a believer,0,1,0,0,0,1,0,0,0,0,0,0,1
+12789986,3,2,2,I've never done it before,Guesser,,,Total skeptic,-3,1,0,0,0,0,0,0,1,0,0,0,1
+12789968,3,3,3,I've never done it before,Guesser,"Traditional,Western",,I lean towards skepticism,-1,0,1,0,0,0,1,1,0,0,0,0,0
+12789948,4,8,6,I'm an expert but not world-class,Astrologer,"Humanistic,Degree Theory,Evolutionary,Uranian,Psychological",80,On the fence or neither a skeptic nor a believer,0,1,1,0,0,1,0,0,0,0,1,0,0
+12789730,3,7,10,I'm an experienced amateur,Astrologer,"Western,Evolutionary,Psychological",90,Total believer,3,1,0,1,0,0,1,0,0,0,0,0,0
+12789517,2,8,5,I'm between an amateur and an expert,Astrologer,"Traditional,Cosmobiology,Uranian,Electional,Renaissance",70,Believer but not total believer,2,0,0,0,0,0,0,0,0,0,1,1,0
+12789302,1,2,2,I've never done it before,Guesser,"Egyptian,Mayan,Mundane,Evolutionary,Humanistic,Renaissance,Electional,Vedic,Medieval,Traditional,Uranian,Psychological,Chinese,Western,Hellenistic,Horary,Esoteric,Cosmobiology,Medical,Degree Theory",,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,1
+12788633,5,2,2,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,1,1,0,0,1,1,0,0,1
+12788102,2,10,12,I'm an expert but not world-class,Astrologer,Vedic,90,Total believer,3,0,0,0,1,0,0,0,0,0,1,0,0
+12787238,3,5,4,I have a little experience,Astrologer,Traditional,,I lean towards believing,1,1,0,1,0,0,0,0,0,0,0,0,1
+12786958,2,3,3,I'm between an amateur and an expert,Astrologer,"Traditional,Western,Hellenistic,Horary",70,Believer but not total believer,2,0,0,0,0,1,0,0,0,1,0,0,0
+12785915,3,8,6,I'm an experienced amateur,Astrologer,"Western,Traditional",60,I lean towards believing,1,1,0,0,0,1,1,0,0,0,0,0,0
+12785270,4,5,5,I've never done it before,Guesser,"Chinese,Traditional,Western",,I lean towards believing,1,0,0,0,1,1,1,1,0,0,0,0,0
+12784996,4,6,5,I have a little experience,Astrologer,Psychological,50,Total skeptic,-3,1,1,0,1,0,1,0,0,0,0,0,0
+12784557,3,3,2,I have a little experience,Astrologer,Western,30,Skeptic but not total skeptic,-2,0,0,0,0,0,0,1,1,0,0,0,1
+12783924,0,9,9,I'm between an amateur and an expert,Astrologer,"Western,Electional,Hellenistic,Horary",90,Total believer,3,0,0,0,0,0,0,0,0,0,0,0,0
+12783476,4,12,9,I'm between an amateur and an expert,Astrologer,"Western,Traditional,Hellenistic,Psychological",90,Total believer,3,1,1,0,0,1,1,0,0,0,0,0,0
+12783338,1,7,6,I'm an experienced amateur,Astrologer,"Mundane,Western",80,Total believer,3,0,0,0,1,0,0,0,0,0,0,0,0
+12782967,2,4,4,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,1,0,1,0,0,0,0,0,0
+12782170,4,11,9,I'm an experienced amateur,Astrologer,"Medieval,Psychological,Chinese,Mundane",80,On the fence or neither a skeptic nor a believer,0,0,1,0,0,0,1,0,0,0,0,1,1
+12781788,3,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,0,0,1,0,0,1,0,0,0
+12781709,5,4,2,I have a little experience,Astrologer,"Evolutionary,Humanistic",70,Believer but not total believer,2,0,0,1,0,0,1,0,1,0,0,1,1
+12781651,5,6,8,I'm between an amateur and an expert,Astrologer,Western,90,Total believer,3,1,0,1,0,0,1,0,0,0,1,0,1
+12781212,4,11,12,I'm between an amateur and an expert,Astrologer,"Western,Mundane,Traditional,Medical,Psychological",100,Total believer,3,1,1,0,0,0,0,0,1,1,0,0,0
+12781096,1,3,3,I have a little experience,Astrologer,,,On the fence or neither a skeptic nor a believer,0,0,0,0,1,0,0,0,0,0,0,0,0
+12780804,1,3,3,I'm between an amateur and an expert,Astrologer,"Traditional,Hellenistic,Western",100,Total believer,3,0,0,0,0,0,0,1,0,0,0,0,0
+12780782,2,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,1,0,0,0,1
+12780774,2,0,5,I've never done it before,Guesser,Vedic,,Total skeptic,-3,0,0,0,0,0,1,0,0,0,0,0,1
+12780477,1,12,12,I've never done it before,Guesser,Western,100,Total skeptic,-3,0,0,0,0,1,0,0,0,0,0,0,0
+12780446,1,6,5,I have a little experience,Astrologer,Psychological,90,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,1
+12780431,3,6,11,I have a little experience,Astrologer,,,Believer but not total believer,2,0,0,0,1,0,1,1,0,0,0,0,0
+12780345,0,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12780281,2,1,0,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,1,0,0,0,1,0,0,0
+12780205,2,12,12,I'm an expert but not world-class,Astrologer,"Degree Theory,Horary,Mundane,Electional,Traditional,Hellenistic,Western",80,Total believer,3,0,0,0,1,0,0,0,0,1,0,0,0
+12780156,0,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12779908,3,6,3,I have a little experience,Astrologer,"Mundane,Western,Hellenistic",80,On the fence or neither a skeptic nor a believer,0,0,0,1,1,0,0,0,0,0,1,0,0
+12779875,0,0,0,I've never done it before,Guesser,,,I lean towards skepticism,-1,0,0,0,0,0,0,0,0,0,0,0,0
+12779831,0,1,1,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,0,0,0,0,0,0,0,0,0
+12779779,1,4,4,I have a little experience,Astrologer,"Humanistic,Psychological,Western,Evolutionary,Medical",10,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,1
+12778846,1,3,3,I'm an experienced amateur,Astrologer,"Esoteric,Western,Traditional",,Skeptic but not total skeptic,-2,0,0,1,0,0,0,0,0,0,0,0,0
+12778750,5,5,3,I'm an experienced amateur,Astrologer,"Chinese,Western",70,I lean towards believing,1,1,0,0,1,0,0,1,0,1,0,1,0
+12778338,4,7,4,I'm an experienced amateur,Astrologer,"Western,Hellenistic,Traditional,Evolutionary,Esoteric",80,Believer but not total believer,2,0,0,1,1,1,1,0,0,0,0,0,0
+12778049,0,3,2,I have a little experience,Astrologer,,30,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,0,0,0,0,0,0,0
+12777765,2,11,11,I have a little experience,Astrologer,Traditional,50,Believer but not total believer,2,1,0,0,0,0,1,0,0,0,0,0,0
+12776925,2,1,1,I've never done it before,Guesser,Traditional,,Total skeptic,-3,1,0,0,0,0,0,1,0,0,0,0,0
+12776589,4,6,2,I have a little experience,Astrologer,Traditional,,I lean towards believing,1,1,0,0,1,0,0,1,0,0,1,0,0
+12775918,4,4,3,I've never done it before,Guesser,,1,Total skeptic,-3,1,1,0,1,0,0,0,0,1,0,0,0
+12775559,3,12,12,I'm an experienced amateur,Astrologer,"Western,Chinese,Hellenistic",50,I lean towards believing,1,0,0,1,1,0,1,0,0,0,0,0,0
+12775468,5,3,2,I've never done it before,Guesser,,,Total skeptic,-3,1,0,1,1,0,0,1,0,1,0,0,0
+12775367,2,5,2,I have a little experience,Astrologer,"Traditional,Chinese,Western",,Total skeptic,-3,0,0,0,0,0,1,0,0,0,1,0,0
+12775174,2,1,1,I have a little experience,Guesser,Hellenistic,50,Believer but not total believer,2,0,0,1,0,0,0,1,0,0,0,0,0
+12775153,1,0,0,I've never done it before,Guesser,"None, I will be guessing on this whole thing.  But $1,000 is $1,000",,Total skeptic,-3,0,0,0,0,0,1,0,0,0,0,0,0
+12775123,2,2,2,I have a little experience,Guesser,,,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,1,1,0,0,0,0,0
+12775100,2,0,0,I've never done it before,Guesser,,,Total skeptic,-3,0,1,0,0,0,0,0,0,1,0,0,0
+12775019,0,2,2,I've never done it before,Guesser,Traditional,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12774925,2,1,1,I've never done it before,Guesser,Western,,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,0,0,0,0,1,0,1
+12774844,2,3,3,I've never done it before,Guesser,"Traditional,Western",,Total skeptic,-3,0,0,0,0,0,0,1,0,0,0,0,1
+12774834,3,0,0,I've never done it before,Guesser,,,Total skeptic,-3,0,1,0,0,1,0,1,0,0,0,0,0
+12774734,2,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,1,0,1,0,0,0,0,0,0
+12774677,3,6,12,I'm between an amateur and an expert,Astrologer,"Western,Chinese,Hellenistic,Horary,Traditional,Vedic,Esoteric",90,Total believer,3,0,0,1,1,0,1,0,0,0,0,0,0
+12774631,0,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12774602,0,1,2,I've never done it before,Guesser,Chinese,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12774470,3,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,1,0,0,0,1,0,0,0,0,1,0
+12774415,5,10,6,I'm an experienced amateur,Astrologer,"Traditional,Esoteric,Psychological",80,Believer but not total believer,2,0,1,0,0,0,1,0,1,1,0,1,0
+12774226,2,6,6,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,1,0,0,0,0,1,0
+12774199,1,2,2,I've never done it before,Guesser,,,Believer but not total believer,2,0,0,0,1,0,0,0,0,0,0,0,0
+12774192,3,1,4,I have a little experience,Guesser,"Psychological,Traditional,Western,Renaissance,Chinese",20,Total skeptic,-3,1,0,0,0,1,0,0,0,1,0,0,0
+12774175,3,0,0,I've never done it before,Guesser,Traditional,,Total skeptic,-3,0,1,0,0,0,0,0,0,0,0,1,1
+12774044,1,6,5,I have a little experience,Astrologer,"Western,Medieval,Traditional",,Total skeptic,-3,1,0,0,0,0,0,0,0,0,0,0,0
+12774010,2,1,0,I've never done it before,Guesser,"Chinese,Traditional,Psychological,Western,Uranian,Egyptian,Horary,Mayan,Degree Theory,Mundane,Evolutionary,Vedic,Medical,Electional,Humanistic,Esoteric,Hellenistic,Medieval,Renaissance,Cosmobiology",,On the fence or neither a skeptic nor a believer,0,1,0,0,0,0,0,0,0,0,1,0,0
+12774007,1,5,2,I have a little experience,Astrologer,Western,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,1,0
+12773906,2,7,12,I'm a world-class expert,Astrologer,"Horary,Vedic,Western",80,I lean towards skepticism,-1,0,1,0,0,0,1,0,0,0,0,0,0
+12773853,3,4,11,I've never done it before,Guesser,Western,60,Skeptic but not total skeptic,-2,1,1,0,0,0,0,0,0,0,0,1,0
+12773845,4,7,10,I have a little experience,Astrologer,Traditional,80,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,1,0,1,1,0,0,1
+12773824,3,6,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,1,0,0,0,0,0,0,0,1
+12773708,2,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,1,0,1,0,0,0,0,0
+12773701,4,8,8,I'm an experienced amateur,Astrologer,Western,70,I lean towards believing,1,1,1,0,0,1,1,0,0,0,0,0,0
+12773630,3,8,7,I have a little experience,Astrologer,"Psychological,Evolutionary",30,On the fence or neither a skeptic nor a believer,0,0,0,1,0,0,0,0,0,0,1,1,0
+12773610,1,12,6,I have a little experience,Astrologer,"Medical,Evolutionary,Electional,Egyptian,Cosmobiology,Esoteric,Psychological,Vedic,Chinese,Medieval,Mundane,Western",50,I lean towards skepticism,-1,0,0,0,0,0,0,1,0,0,0,0,0
+12773490,2,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,1,0,1,0
+12773480,3,11,7,I'm an expert but not world-class,Astrologer,"Esoteric,Psychological",99,Total believer,3,0,1,0,1,1,0,0,0,0,0,0,0
+12773451,0,6,6,I've never done it before,Guesser,,,I lean towards skepticism,-1,0,0,0,0,0,0,0,0,0,0,0,0
+12773420,2,2,2,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,1,0,0,0,0,0,0,0,0,1,0,0
+12773385,3,3,1,I've never done it before,Guesser,,,Total skeptic,-3,1,0,0,0,0,0,0,1,1,0,0,0
+12773368,0,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12773353,2,4,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,1,0,0,0,0,1
+12773345,5,3,3,I've never done it before,Guesser,Vedic,,On the fence or neither a skeptic nor a believer,0,1,0,1,0,1,0,1,1,0,0,0,0
+12773316,1,11,11,I'm an experienced amateur,Astrologer,Traditional,80,Total believer,3,0,0,0,0,0,0,0,1,0,0,0,0
+12773282,4,1,1,I've never done it before,Guesser,,,Total skeptic,-3,1,1,0,0,0,0,1,0,0,0,1,0
+12773281,3,5,6,I'm between an amateur and an expert,Astrologer,"Vedic,Western,Psychological,Chinese",50,On the fence or neither a skeptic nor a believer,0,0,0,0,0,1,0,0,0,1,0,0,1
+12773246,3,2,0,I've never done it before,Guesser,Traditional,,Total skeptic,-3,0,0,1,0,0,0,0,0,0,1,0,1
+12773244,2,4,2,I'm between an amateur and an expert,Astrologer,Western,60,On the fence or neither a skeptic nor a believer,0,1,0,1,0,0,0,0,0,0,0,0,0
+12773238,2,2,4,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,0,0,0,1,0,0,0,0,1
+12773181,1,5,3,I'm between an amateur and an expert,Astrologer,"Chinese,Medieval,Psychological,Western,Traditional",70,I lean towards believing,1,0,0,0,0,0,0,0,1,0,0,0,0
+12773125,1,11,10,I'm between an amateur and an expert,Astrologer,"Degree Theory,Traditional,Western,Psychological,Humanistic,Medical,Evolutionary",99,Total believer,3,0,0,0,0,0,0,0,0,0,0,1,0
+12773118,5,6,5,I've never done it before,Guesser,Traditional,20,On the fence or neither a skeptic nor a believer,0,1,1,1,1,0,1,0,0,0,0,0,0
+12773040,5,2,2,I have a little experience,Guesser,,5,I lean towards believing,1,0,0,0,1,0,1,1,0,0,0,1,1
+12772989,5,3,3,I have a little experience,Astrologer,"Chinese,Western",50,I lean towards believing,1,1,0,1,1,0,0,0,0,1,1,0,0
+12772979,1,3,3,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,1,0,0,0,0,0,0,0,0
+12772822,2,3,2,I have a little experience,Astrologer,"Traditional,Western",,Total skeptic,-3,0,0,0,0,0,1,0,1,0,0,0,0
+12772806,5,3,3,I've never done it before,Guesser,Traditional,50,Total skeptic,-3,0,0,1,0,0,0,1,1,0,0,1,1
+12772738,1,7,7,I've never done it before,Guesser,Mundane,,Total skeptic,-3,0,0,0,1,0,0,0,0,0,0,0,0
+12772720,1,12,12,I've never done it before,Guesser,None,,Total skeptic,-3,0,0,0,0,0,0,0,0,1,0,0,0
+12772713,2,12,1,I've never done it before,Guesser,,,I lean towards believing,1,0,1,0,0,0,1,0,0,0,0,0,0
+12772625,5,6,5,I'm an experienced amateur,Astrologer,"Psychological,Horary,Medical,Hellenistic,Western,Traditional",70,Total believer,3,1,1,0,1,1,0,0,0,0,1,0,0
+12772480,1,0,0,I have a little experience,Guesser,,30,Total skeptic,-3,0,0,0,0,0,1,0,0,0,0,0,0
+12772448,2,11,11,I have a little experience,Astrologer,"Humanistic,Medical",90,On the fence or neither a skeptic nor a believer,0,1,0,0,0,0,1,0,0,0,0,0,0
+12772435,1,11,11,I'm an experienced amateur,Astrologer,"Traditional,Western,Vedic",90,I lean towards believing,1,0,0,0,0,0,0,0,0,0,0,0,1
+12772400,2,12,4,I have a little experience,Astrologer,Esoteric,80,I lean towards believing,1,1,0,0,0,0,0,0,1,0,0,0,0
+12772377,2,2,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,1,0,1,0
+12772326,0,12,3,I've never done it before,Guesser,,,Total believer,3,0,0,0,0,0,0,0,0,0,0,0,0
+12772291,1,2,2,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,0,0,0,1,0,0,0,0,0
+12772290,5,3,2,I have a little experience,Astrologer,Traditional,,Total skeptic,-3,1,0,1,0,0,1,0,1,0,0,1,0
+12772240,2,3,1,I have a little experience,Astrologer,Western,,Total skeptic,-3,0,0,1,0,0,0,0,0,0,0,0,1
+12772231,0,4,5,I have a little experience,Astrologer,"Traditional,Chinese,Western",30,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12772188,1,12,12,I have a little experience,Astrologer,,30,I lean towards skepticism,-1,0,0,0,0,0,0,0,0,0,0,1,0
+12772183,4,11,11,I'm an experienced amateur,Astrologer,Hellenistic,80,Believer but not total believer,2,0,1,1,0,0,0,1,0,0,0,0,1
+12772181,3,4,4,I'm between an amateur and an expert,Astrologer,"Medieval,Western",60,Skeptic but not total skeptic,-2,0,0,1,0,1,1,0,0,0,0,0,0
+12772175,1,11,11,I'm an experienced amateur,Astrologer,"Western,Traditional",70,I lean towards believing,1,0,0,0,0,0,1,0,0,0,0,0,0
+12772157,3,5,4,I have a little experience,Astrologer,"Traditional,Western",60,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,1,0,0,0,1,1,0
+12772153,1,4,5,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,0,0,0,1,0,0,0,0,0
+12772106,1,2,2,I've never done it before,Guesser,,20,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,1
+12772078,1,3,2,I've never done it before,Guesser,,10,Total skeptic,-3,0,0,0,0,0,0,0,1,0,0,0,0
+12772031,1,4,3,I have a little experience,Astrologer,"Western,Traditional,Evolutionary",30,I lean towards believing,1,0,0,0,0,0,0,0,0,1,0,0,0
+12772028,0,11,8,I'm an experienced amateur,Astrologer,,70,Believer but not total believer,2,0,0,0,0,0,0,0,0,0,0,0,0
+12771984,3,6,5,I'm an experienced amateur,Astrologer,"Chinese,Western",80,I lean towards believing,1,0,1,0,0,0,1,0,0,0,1,0,0
+12771964,2,2,2,I have a little experience,Guesser,,,I lean towards skepticism,-1,1,0,0,0,0,0,0,0,1,0,0,0
+12771914,4,12,12,I've never done it before,Guesser,,,On the fence or neither a skeptic nor a believer,0,1,0,0,0,0,1,0,0,0,1,0,1
+12771913,2,2,7,I have a little experience,Guesser,Western,,I lean towards skepticism,-1,0,0,0,0,0,0,1,0,0,1,0,0
+12771894,3,2,2,I've never done it before,Guesser,Traditional,50,Total skeptic,-3,0,0,1,0,0,0,0,1,0,0,0,1
+12771830,0,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12771725,1,9,9,I'm an experienced amateur,Astrologer,"Western,Evolutionary,Chinese,Psychological",70,I lean towards believing,1,0,0,0,0,0,1,0,0,0,0,0,0
+12771673,2,3,5,I've never done it before,Guesser,,,I lean towards skepticism,-1,0,0,0,0,0,1,0,0,0,1,0,0
+12771664,3,3,2,I've never done it before,Guesser,Western,,Total skeptic,-3,1,0,1,0,0,1,0,0,0,0,0,0
+12771659,4,6,6,I've never done it before,Guesser,,,Total skeptic,-3,1,0,0,1,0,0,1,0,0,1,0,0
+12771624,0,8,4,I've never done it before,Guesser,"Traditional,Vedic",90,Skeptic but not total skeptic,-2,0,0,0,0,0,0,0,0,0,0,0,0
+12771621,1,11,10,I'm between an amateur and an expert,Astrologer,Western,90,Believer but not total believer,2,0,1,0,0,0,0,0,0,0,0,0,0
+12771602,2,2,3,I've never done it before,Guesser,,,Total skeptic,-3,1,0,0,1,0,0,0,0,0,0,0,0
+12771596,1,3,0,I've never done it before,Guesser,,,Total skeptic,-3,1,0,0,0,0,0,0,0,0,0,0,0
+12771577,3,2,2,I've never done it before,Guesser,,,Total skeptic,-3,1,0,1,0,0,0,0,1,0,0,0,0
+12771513,2,6,3,I'm between an amateur and an expert,Astrologer,Western,50,Believer but not total believer,2,0,0,0,0,0,1,0,0,0,0,1,0
+12771506,1,10,2,I have a little experience,Astrologer,,40,Total skeptic,-3,0,0,0,0,0,1,0,0,0,0,0,0
+12771475,2,2,2,I've never done it before,Guesser,,,Total skeptic,-3,1,0,0,0,1,0,0,0,0,0,0,0
+12771464,1,12,12,I'm between an amateur and an expert,Astrologer,"Psychological,Uranian,Western,Traditional",90,Total believer,3,0,0,1,0,0,0,0,0,0,0,0,0
+12771446,2,3,3,I've never done it before,Guesser,Traditional,,Total skeptic,-3,0,0,0,1,0,0,0,0,0,0,0,1
+12771438,1,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,1,0,0,0,0,0
+12771425,2,2,2,I've never done it before,Guesser,Western,,Total skeptic,-3,0,0,1,0,0,1,0,0,0,0,0,0
+12771383,5,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,1,1,0,0,0,1,1,0,0
+12771360,1,0,0,I'm between an amateur and an expert,Guesser,Vedic,90,Believer but not total believer,2,0,0,0,0,0,0,0,0,1,0,0,0
+12771350,0,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12771337,3,2,0,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,1,0,0,1,0,0,0,0,0
+12771331,2,12,8,I have a little experience,Astrologer,"Esoteric,Psychological,Evolutionary,Humanistic,Western",5,I lean towards believing,1,0,1,0,0,0,1,0,0,0,0,0,0
+12771313,4,5,0,I'm an experienced amateur,Astrologer,Western,50,Skeptic but not total skeptic,-2,1,0,0,0,1,1,1,0,0,0,0,0
+12771232,2,5,3,I've never done it before,Guesser,,,Total skeptic,-3,0,1,0,0,0,0,0,0,0,0,1,0
+12771215,0,8,8,I'm an experienced amateur,Astrologer,Traditional,70,I lean towards believing,1,0,0,0,0,0,0,0,0,0,0,0,0
+12771210,1,0,0,I've never done it before,Guesser,none,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,1
+12771200,1,0,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,1,0,0
+12771180,1,11,2,I have a little experience,Astrologer,Traditional,10,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,1,0,0,0,0,0,0
+12770476,4,5,7,I have a little experience,Astrologer,Western,50,Believer but not total believer,2,1,0,0,0,1,1,0,0,1,0,0,0
+12771130,3,1,2,I have a little experience,Guesser,Traditional,,I lean towards skepticism,-1,1,0,0,0,1,0,0,0,0,0,0,1
+12771109,2,11,10,I'm an expert but not world-class,Astrologer,"Medical,Hellenistic,Esoteric",90,Total believer,3,0,0,0,1,0,0,0,0,1,0,0,0
+12771095,4,3,3,I'm an experienced amateur,Astrologer,Jungian,50,Skeptic but not total skeptic,-2,0,1,0,1,0,0,0,1,0,1,0,0
+12771092,2,2,2,I have a little experience,Guesser,Western,,Total skeptic,-3,0,0,1,1,0,0,0,0,0,0,0,0
+12771073,1,1,1,I've never done it before,Guesser,Traditional,,Skeptic but not total skeptic,-2,0,0,0,0,0,0,1,0,0,0,0,0
+12771071,1,11,11,I have a little experience,Astrologer,Western,50,Total believer,3,0,0,0,0,0,1,0,0,0,0,0,0
+12771040,1,0,0,I've never done it before,Guesser,,,I lean towards skepticism,-1,1,0,0,0,0,0,0,0,0,0,0,0
+12771013,3,2,1,I've never done it before,Guesser,Western,,Total skeptic,-3,0,1,0,0,0,0,0,0,0,0,1,1
+12771010,0,12,12,I've never done it before,Guesser,"Western,Esoteric,Egyptian,Psychological,Cosmobiology",,I lean towards believing,1,0,0,0,0,0,0,0,0,0,0,0,0
+12771007,2,2,2,I've never done it before,Guesser,Traditional,,Total skeptic,-3,1,0,0,0,0,0,0,0,0,0,0,1
+12771006,3,11,11,I have a little experience,Astrologer,Traditional,50,Total skeptic,-3,0,0,1,0,0,0,1,0,0,0,0,1
+12770958,3,12,11,I've never done it before,Guesser,,70,Believer but not total believer,2,0,0,0,1,1,0,0,0,1,0,0,0
+12770931,3,3,4,I've never done it before,Guesser,,,I lean towards believing,1,0,0,1,0,0,1,0,0,1,0,0,0
+12770926,3,5,0,I have a little experience,Astrologer,"Psychological,Traditional",5,On the fence or neither a skeptic nor a believer,0,0,1,0,0,0,1,0,0,0,0,1,0
+12770899,5,9,7,I'm between an amateur and an expert,Astrologer,"Humanistic,Evolutionary,Western,Psychological",70,Total believer,3,1,1,1,0,1,1,0,0,0,0,0,0
+12770885,2,6,7,I have a little experience,Astrologer,"Egyptian,Esoteric,Traditional,Hellenistic",100,Total believer,3,0,0,0,0,0,1,0,1,0,0,0,0
+12770881,4,1,1,I've never done it before,Guesser,"Chinese,Western",,On the fence or neither a skeptic nor a believer,0,0,0,0,0,1,1,0,0,1,0,1,0
+12770874,2,0,0,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,0,0,0,0,0,0,0,0,1
+12770844,2,2,0,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,0,1,0,0,0,0,0,0,0
+12770842,3,12,12,I've never done it before,Guesser,Traditional,40,I lean towards skepticism,-1,1,0,0,0,0,0,1,0,0,1,0,0
+12770795,2,5,5,I'm an experienced amateur,Astrologer,"Western,Traditional,Psychological",70,Believer but not total believer,2,1,0,0,0,0,1,0,0,0,0,0,0
+12770781,0,7,7,I have a little experience,Astrologer,"Esoteric,Traditional,Western",60,Believer but not total believer,2,0,0,0,0,0,0,0,0,0,0,0,0
+12770756,2,9,7,I'm between an amateur and an expert,Astrologer,"Western,Vedic,Horary",70,Believer but not total believer,2,0,0,1,0,1,0,0,0,0,0,0,0
+12770743,4,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,1,0,0,1,0,1,1,0,0,0,0
+12770725,2,2,2,I've never done it before,Guesser,,,Total skeptic,-3,1,0,0,0,0,0,0,0,0,0,1,0
+12770717,2,1,0,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,1,0,0,0,0,0,1,0,0,0
+12770713,2,2,3,I have a little experience,Guesser,"Vedic,Chinese,Western,Traditional",30,I lean towards believing,1,1,0,0,0,0,1,0,0,0,0,0,0
+12770710,2,11,11,I have a little experience,Astrologer,"Traditional,Vedic",90,Believer but not total believer,2,0,0,1,0,1,0,0,0,0,0,0,0
+12770681,2,6,3,I've never done it before,Guesser,"Renaissance,Traditional,Psychological",60,Total skeptic,-3,0,0,0,0,1,0,0,0,0,0,1,0
+12770677,4,11,6,I've never done it before,Guesser,Western,,On the fence or neither a skeptic nor a believer,0,1,0,0,0,1,1,0,0,1,0,0,0
+12770676,0,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12770669,0,0,0,I've never done it before,Guesser,Western,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12770648,4,11,11,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,0,0,1,1,1,0,0,1,0
+12770645,2,11,5,I've never done it before,Guesser,,100,On the fence or neither a skeptic nor a believer,0,0,0,0,1,0,0,0,0,0,0,1,0
+12770638,1,4,2,I'm an experienced amateur,Astrologer,"Traditional,Humanistic,Chinese",60,Believer but not total believer,2,1,0,0,0,0,0,0,0,0,0,0,0
+12770635,4,3,2,I have a little experience,Astrologer,Western,1,Total skeptic,-3,1,0,1,0,1,0,1,0,0,0,0,0
+12770631,3,6,5,I've never done it before,Guesser,Esoteric,,Skeptic but not total skeptic,-2,0,0,0,1,0,0,0,0,1,0,0,1
+12770627,3,7,6,I'm an experienced amateur,Astrologer,Western,60,I lean towards skepticism,-1,1,0,0,0,0,1,0,0,0,0,0,1
+12770620,3,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,1,1,0,0,0,0,0,1,0,0,0
+12770619,2,2,3,I'm an expert but not world-class,Guesser,"Mundane,Chinese,Western",40,I lean towards skepticism,-1,0,0,1,1,0,0,0,0,0,0,0,0
+12770618,1,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,1,0,0
+12770601,1,3,2,I've never done it before,Guesser,,,Skeptic but not total skeptic,-2,0,0,0,0,0,0,0,1,0,0,0,0
+12770599,4,4,5,I have a little experience,Astrologer,Western,50,Skeptic but not total skeptic,-2,1,0,1,0,0,1,0,1,0,0,0,0
+12770324,1,4,5,I have a little experience,Astrologer,,50,On the fence or neither a skeptic nor a believer,0,0,0,0,0,1,0,0,0,0,0,0,0
+12770304,0,3,1,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12770201,2,3,3,I have a little experience,Astrologer,"Western,Traditional",60,On the fence or neither a skeptic nor a believer,0,0,0,0,0,1,1,0,0,0,0,0,0
+12770174,2,3,4,I'm an experienced amateur,Astrologer,"Esoteric,Traditional",30,I lean towards skepticism,-1,1,0,1,0,0,0,0,0,0,0,0,0
+12770155,6,3,2,I've never done it before,Guesser,,,Total skeptic,-3,1,0,0,0,0,1,1,0,1,1,1,0
+12770137,5,6,0,I've never done it before,Guesser,,,Total skeptic,-3,1,1,1,1,1,0,0,0,0,0,0,0
+12770129,3,10,4,I'm between an amateur and an expert,Astrologer,"Esoteric,Western,Traditional,Evolutionary",95,Total believer,3,1,0,1,0,0,1,0,0,0,0,0,0
+12770110,1,2,2,I've never done it before,Guesser,Randomness,,Total skeptic,-3,0,0,0,0,0,0,1,0,0,0,0,0
+12770087,4,6,6,I'm an experienced amateur,Astrologer,"Electional,Western,Uranian,Mundane,Horary,Cosmobiology",40,Total believer,3,0,0,0,1,0,1,0,1,1,0,0,0
+12770063,2,3,3,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,1,1,0,0,0,0
+12770040,0,3,2,I've never done it before,Guesser,Well ya pick up some things here and there over a lifetime i suppose.Maybe.,,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,0,0,0,0,0,0,0
+12770036,2,2,2,I've never done it before,Guesser,Western,0,Total skeptic,-3,0,0,0,0,0,0,0,1,0,0,0,1
+12770035,4,2,2,I've never done it before,Guesser,Western,,Skeptic but not total skeptic,-2,1,0,1,1,0,1,0,0,0,0,0,0
+12769891,3,12,12,I'm an experienced amateur,Astrologer,Western,50,On the fence or neither a skeptic nor a believer,0,0,0,0,1,0,0,0,1,0,1,0,0
+12769681,3,7,7,I'm between an amateur and an expert,Astrologer,"Traditional,Western",80,Total believer,3,1,0,0,1,1,0,0,0,0,0,0,0
+12769659,3,6,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,0,0,1,0,0,0,0,0,1
+12769640,3,6,6,I'm between an amateur and an expert,Astrologer,"Traditional,Western",60,I lean towards believing,1,1,0,1,0,0,1,0,0,0,0,0,0
+12769467,1,8,5,I'm an experienced amateur,Astrologer,Traditional,70,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,1,0,0,0,0,0,0
+12769439,3,2,1,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,1,0,0,0,0,1,1
+12769433,2,6,6,I've never done it before,Guesser,none and that is ok,,Skeptic but not total skeptic,-2,0,1,0,0,0,0,0,0,0,0,1,0
+12769412,3,2,2,I've never done it before,Guesser,,,Total skeptic,-3,1,1,0,0,0,0,0,0,0,0,0,1
+12769401,2,7,1,I have a little experience,Astrologer,Psychological,,Total skeptic,-3,1,0,0,0,0,0,0,0,1,0,0,0
+12769394,1,11,11,I'm between an amateur and an expert,Astrologer,Mundane,50,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,0,0,1,0,0,0,0
+12769364,4,2,2,I have a little experience,Guesser,Chinese,20,On the fence or neither a skeptic nor a believer,0,0,0,1,1,0,0,0,1,1,0,0,0
+12769359,3,4,4,I'm between an amateur and an expert,Astrologer,"Degree Theory,Humanistic,Psychological,Traditional",60,Believer but not total believer,2,1,0,1,0,0,0,0,1,0,0,0,0
+12769348,2,11,11,I'm a world-class expert,Astrologer,"Uranian,Egyptian,Mayan,Horary,Cosmobiology,Western,Traditional,Medieval,Vedic,Renaissance,Electional,Hellenistic,Degree Theory,Mundane",99,Total believer,3,0,1,0,0,1,0,0,0,0,0,0,0
+12769331,3,6,5,I'm an experienced amateur,Astrologer,"Traditional,Western,Mundane,Psychological,Evolutionary,Medical",40,Total believer,3,0,0,1,0,0,0,1,1,0,0,0,0
+12769200,3,2,2,I've never done it before,Guesser,None,,Total skeptic,-3,0,0,0,0,0,0,1,0,0,1,0,1
+12769089,4,12,6,I'm between an amateur and an expert,Astrologer,"Traditional,Uranian,Western,Horary,Hellenistic,Evolutionary,Mundane",80,Total believer,3,0,0,0,0,1,1,0,0,1,1,0,0
+12769052,1,11,11,I'm an experienced amateur,Astrologer,Western,90,On the fence or neither a skeptic nor a believer,0,0,1,0,0,0,0,0,0,0,0,0,0
+12768866,3,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,1,1,0,1,0,0
+12768605,3,6,8,I'm between an amateur and an expert,Astrologer,"Psychological,Western",70,On the fence or neither a skeptic nor a believer,0,0,0,0,1,1,0,0,0,1,0,0,0
+12768185,1,5,7,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,1,0,0,0,0,0,0
+12767978,2,0,1,I have a little experience,Guesser,,50,I lean towards skepticism,-1,0,0,0,0,0,1,0,0,1,0,0,0
+12768218,5,4,2,I have a little experience,Astrologer,"Chinese,Western",,I lean towards believing,1,1,0,0,1,0,1,0,0,1,0,1,0
+12767410,3,7,8,I'm an experienced amateur,Astrologer,"Hellenistic,Western,Traditional",80,I lean towards believing,1,1,0,1,0,0,1,0,0,0,0,0,0
+12767040,2,6,6,I'm between an amateur and an expert,Astrologer,"Psychological,Western,Traditional",70,I lean towards believing,1,0,0,0,1,0,0,1,0,0,0,0,0
+12767013,3,11,8,I'm an experienced amateur,Astrologer,Psychological,90,On the fence or neither a skeptic nor a believer,0,0,1,1,0,0,0,0,1,0,0,0,0
+12766842,3,12,12,I'm an expert but not world-class,Astrologer,"Evolutionary,Psychological,Western,Chinese",99,Total believer,3,0,1,0,0,0,0,0,0,1,0,0,1
+12766346,3,1,3,I'm an experienced amateur,Guesser,Western,70,On the fence or neither a skeptic nor a believer,0,1,0,1,0,0,0,0,0,0,1,0,0
+12766129,2,6,3,I'm between an amateur and an expert,Astrologer,"Western,Traditional,Hellenistic",80,Believer but not total believer,2,0,0,1,0,0,0,0,0,0,1,0,0
+12766031,1,12,11,I'm between an amateur and an expert,Astrologer,"Traditional,Western",80,Believer but not total believer,2,0,1,0,0,0,0,0,0,0,0,0,0
+12765889,4,6,7,I'm an experienced amateur,Astrologer,"Traditional,Hellenistic,Psychological,Electional,Mundane,Horary,Western",60,Total believer,3,0,0,1,0,1,1,0,1,0,0,0,0
+12765880,2,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,1,0,0,0,0,1
+12765834,1,11,11,I'm a world-class expert,Astrologer,Evolutionary,95,Total believer,3,0,0,0,0,1,0,0,0,0,0,0,0
+12765759,4,7,7,I'm an experienced amateur,Astrologer,"Western,Psychological",70,Total believer,3,1,1,0,0,0,1,0,0,1,0,0,0
+12765667,3,11,9,I'm between an amateur and an expert,Astrologer,Evolutionary,80,On the fence or neither a skeptic nor a believer,0,0,0,0,0,0,1,0,0,0,1,1,0
+12765587,2,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,1,0,1,0,0,0,0,0,0,0
+12765408,4,3,2,I'm between an amateur and an expert,Astrologer,Western,20,I lean towards believing,1,1,0,0,1,0,0,0,1,0,1,0,0
+12765210,1,2,3,I've never done it before,Guesser,,50,Total skeptic,-3,0,0,0,1,0,0,0,0,0,0,0,0
+12765057,3,12,12,I'm an expert but not world-class,Astrologer,"Evolutionary,Western",50,I lean towards believing,1,1,0,0,0,0,1,0,1,0,0,0,0
+12764955,2,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,1,1,0,0,0,0,0,0
+12764894,3,10,9,I'm between an amateur and an expert,Astrologer,"Electional,Hellenistic,Horary,Western",95,Total believer,3,0,1,0,0,0,0,0,0,1,0,1,0
+12764874,0,3,0,I'm an experienced amateur,Astrologer,"Egyptian,Renaissance,Medieval,Esoteric",30,I lean towards believing,1,0,0,0,0,0,0,0,0,0,0,0,0
+12764660,0,0,0,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12764627,2,10,8,I'm an expert but not world-class,Astrologer,"Traditional,Western",60,Skeptic but not total skeptic,-2,0,0,0,0,0,1,0,0,1,0,0,0
+12764576,3,12,9,I'm an experienced amateur,Astrologer,Western,50,Total believer,3,0,1,0,1,0,0,0,0,0,0,1,0
+12764529,2,1,1,I've never done it before,Guesser,,,Total skeptic,-3,1,0,1,0,0,0,0,0,0,0,0,0
+12764364,1,11,0,I've never done it before,Guesser,Astro logic EL,100,Total believer,3,0,0,0,0,0,0,1,0,0,0,0,0
+12764352,3,3,3,I'm an experienced amateur,Astrologer,Western,,Skeptic but not total skeptic,-2,1,0,0,0,0,1,0,1,0,0,0,0
+12764233,2,6,3,I'm between an amateur and an expert,Astrologer,"Horary,Electional,Hellenistic,Traditional,Psychological,Mundane",80,Total believer,3,0,0,0,0,0,1,1,0,0,0,0,0
+12764231,0,3,3,I've never done it before,Guesser,Zodiac,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12764006,3,6,0,I've never done it before,Guesser,Mundane,,Total skeptic,-3,0,1,0,0,0,0,0,1,1,0,0,0
+12763617,3,3,2,I've never done it before,Guesser,None,,Total skeptic,-3,0,0,1,0,0,0,0,0,0,0,1,1
+12763314,3,4,6,I have a little experience,Astrologer,Western,50,I lean towards skepticism,-1,1,0,1,0,0,1,0,0,0,0,0,0
+12762902,2,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,1,0,0,0,0,0,0,1,0
+12762897,1,1,1,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,1,0,0,0,0,0,0
+12762870,0,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,0
+12762710,4,3,3,I have a little experience,Astrologer,Traditional,50,On the fence or neither a skeptic nor a believer,0,1,0,0,0,1,1,0,0,0,1,0,0
+12762477,2,2,2,I have a little experience,Guesser,Traditional,,Skeptic but not total skeptic,-2,0,1,0,0,0,0,0,0,1,0,0,0
+12762361,0,11,10,I have a little experience,Astrologer,"Chinese,Evolutionary,Egyptian,Renaissance",40,I lean towards believing,1,0,0,0,0,0,0,0,0,0,0,0,0
+12762089,4,3,3,I've never done it before,Guesser,,,I lean towards skepticism,-1,0,1,0,1,0,0,0,1,0,0,0,1
+12762067,2,2,2,I've never done it before,Guesser,Psychological,,Total skeptic,-3,0,0,0,0,0,0,0,0,1,0,0,1
+12762057,1,2,2,I've never done it before,Guesser,,,Total skeptic,-3,0,0,0,0,0,0,0,0,0,0,0,1
+12740636,4,5,6,I'm between an amateur and an expert,Astrologer,"Psychological,Traditional,Evolutionary,Hellenistic,Electional,Western,Degree Theory,Horary,Mundane",80,Total believer,3,0,0,0,1,1,1,0,0,1,0,0,0
+12728129,4,11,9,I'm a world-class expert,Astrologer,"Mundane,Western,Renaissance,Egyptian,Traditional,Medieval,Psychological,Hellenistic,Horary",80,Total believer,3,0,1,0,0,1,0,1,0,1,0,0,0
+12700070,2,12,8,I'm a world-class expert,Astrologer,"Mundane,Degree Theory,Western,Sabian Symbols",99,Total believer,3,0,1,1,0,0,0,0,0,0,0,0,0
+12655600,4,0,4,I've never done it before,Guesser,Western,,I lean towards believing,1,1,0,1,1,0,0,0,0,0,0,0,1
+12627422,3,8,8,I'm an experienced amateur,Astrologer,Western,80,Believer but not total believer,2,0,0,0,0,0,1,0,0,1,0,1,0
